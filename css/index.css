@@ -1,0 +1,12 @@
+div.form-group{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.textalign{
+    text-align: center;
+}
+div.container{
+    background-color: antiquewhite;
+}
